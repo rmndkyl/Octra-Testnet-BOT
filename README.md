@@ -2,6 +2,9 @@
 
 ![Octra Banner](https://github.com/user-attachments/assets/69f8ec47-5c5d-48bd-9730-c222c47b8ae8)
 
+<img width="836" height="795" alt="image" src="https://github.com/user-attachments/assets/7fa50355-9ea8-4838-a4c6-47e474934c8e" />
+
+
 **🔥 PREMIUM AUTOMATED OCTRA TESTNET BOT - Professional Grade Solution**
 
 An advanced, production-ready automated transaction bot for Octra Testnet with enterprise-level features, beautiful logging, and intelligent automation designed for serious airdrop farmers.
